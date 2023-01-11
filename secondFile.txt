@@ -10,3 +10,5 @@ secondFile 9
 secondFile 10
 update line in git_1 file 1
 update line in git_1 file 2
+update line in git_2 file 1
+update line in git_2 file 2
