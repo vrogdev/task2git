@@ -8,3 +8,5 @@ secondFile 7
 secondFile 8
 secondFile 9
 secondFile 10
+update line in git_2 file 1
+update line in git_2 file 2
