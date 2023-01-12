@@ -1,0 +1,14 @@
+secondFile 1
+secondFile 2
+secondFile 3
+secondFile 4
+secondFile 5
+secondFile 6
+secondFile 7
+secondFile 8
+secondFile 9
+secondFile 10
+update line in git_1 file 1
+update line in git_1 file 2
+update line in git_2 file 1
+update line in git_2 file 2
